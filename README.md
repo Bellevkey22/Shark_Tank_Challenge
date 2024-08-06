@@ -33,7 +33,7 @@ The dataset used in this project contains information from the Shark Tank TV sho
 
 ## Visuals
 
-![Shark Tank Data Analysis](path_to_your_image)
+![Shark Tank Data Analysis](https://github.com/Bellevkey22/Shark_Tank_Challenge/blob/main/shark%20tank%20viz.jpeg)
 
 ## Conclusion
 
